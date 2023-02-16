@@ -9,7 +9,13 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконав(-ла):** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студент(-ка) 2-го курсу, групи (шифр групи)*
+
+<span padding-right:5em></span> ** Vasya Topolya** <a href="https://t.me/COMSYS_DB_2022" target="_blank"> Telegram </a>
+
+<span padding-right:5em></span> ** Vasya Topolya** <a href="https://t.me/COMSYS_DB_2022" target="_blank"> Telegram </a>
+
+<span padding-right:5em></span> ** Vasya Topolya** <a href="https://t.me/COMSYS_DB_2022" target="_blank"> Telegram </a>
 
 
 **Керівник**
